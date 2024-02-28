@@ -1,5 +1,9 @@
 import calculation
 
+def test_readinput():
+    radius = calculation.read_input()
+    assert radius == 
+
 def test_calculation():
     result = volumeofball.calculation(3)
     assert result == 113.112
