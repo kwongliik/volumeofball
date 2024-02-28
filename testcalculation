@@ -1,6 +1,6 @@
 import calculate_volume
 
-def test_calculation():
+def test_kira_sfera():
     result = calculate_volume.kira
     assert result == 113.112
 
