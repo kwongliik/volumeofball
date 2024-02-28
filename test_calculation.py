@@ -19,4 +19,4 @@ def test_main(monkeypatch, capsys):
 
     # Capture the printed output
     captured = capsys.readouterr()
-    assert captured.out.strip() == "Isipadu sfera = 426.67"
+    assert captured.out.strip() == "Volume of sphere = 426.67"
