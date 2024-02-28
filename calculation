@@ -1,0 +1,16 @@
+# Learn how to write function to complete the lesson
+# function to read input
+def read_input(): 
+    pass
+
+# function to calculate the area of circle
+def calculate(r):
+    pass
+    
+# main section
+def main():
+    pass
+
+# Don't change the code below!
+if __name__ == "__main__":
+    main()
