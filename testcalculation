@@ -4,7 +4,7 @@ def test_calculate_sphere():
     result = calculate_volume.calculate_sphere(3)
     assert result == 113.112
 
-def test_sphere(monkeypatch, capsys):
+def test_main(monkeypatch, capsys):
     # Define a function to simulate multiple user inputs
     user_inputs = ["4.67"]
 
