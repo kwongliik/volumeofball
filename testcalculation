@@ -1,11 +1,7 @@
-import calculation
-
-def test_readinput():
-    radius = calculation.read_input()
-    assert radius == 
+import calculate_volume
 
 def test_calculation():
-    result = volumeofball.calculation(3)
+    result = calculate_volume.kira
     assert result == 113.112
 
 def test_sfera(monkeypatch, capsys):
