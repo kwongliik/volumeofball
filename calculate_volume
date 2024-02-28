@@ -4,9 +4,9 @@
 
 pi = 3.142
 
-# kira_sfera() is a function that return the volume of sphere
-def kira_sfera(jejari):
-    isipadu_sfera = 4/3 * ........ * ........... ** ......
+# calculate_sphere() is a function that return the volume of sphere
+def calculate_sphere(radius):
+    volume_of_sphere = 4/3 * ........ * ........... ** ......
     return ...................
 
 def main():
